@@ -6,7 +6,8 @@ int main()
 int UserName;
 int PassWord
 
-
+cout << "Welcome to data protection!";
+cout << endl;
 cout << "Enter your user name ...";
 cout << endl;
 cin >> UserName;
