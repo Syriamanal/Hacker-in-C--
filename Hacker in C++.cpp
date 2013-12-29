@@ -1,21 +1,30 @@
 #include <iostream>
-using namespace std:
+using namespace std;
 
 int main()
 {
 int UserName;
-int PassWord
+int PassWord;
 
-cout << "Welcome to data protection!";
+cout << "Welcome to data protectoin!\n";
 cout << endl;
-cout << "Enter your user name ...";
+cout << endl;
+cout << endl;
+cout << endl;
+cout << "Welcome to data protection!\n";
+cout << endl;
+cout << "Enter your user name...\n";
 cout << endl;
 cin >> UserName;
-cout << "Enter your password ...";
+cout << "Enter your password...\n";
 cout << endl;
 cin >> PassWord;
-cout << "protecting your data ..."
+cout << "protecting your data...\n";
 cout << endl;
-cout << "Data protected ...";
+cout << endl;
+cout << endl;
+cout << endl;
+cout << endl;
+cout << "Data protected...\n";
 
 }
