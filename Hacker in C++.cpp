@@ -1,10 +1,13 @@
 #include <iostream>
+#include <Windows.h>
+#include <string>
+
 using namespace std;
 
 int main()
 {
-int UserName;
-int PassWord;
+string UserName;
+string PassWord;
 
 cout << "Welcome to data protectoin!\n";
 cout << endl;
