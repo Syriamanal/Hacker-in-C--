@@ -29,5 +29,16 @@ cout << endl;
 cout << endl;
 cout << endl;
 cout << "Data protected...\n";
+Sleep(2000);
+system("cls");
+
+
+cout << "To acuier you data do /data ...";
+int a = 0;
+while(a < 500)
+{
+  cout << "Username: " << UserName << endl;
+  cout << "Password: " << PassWord << endl;
+}
 
 }
